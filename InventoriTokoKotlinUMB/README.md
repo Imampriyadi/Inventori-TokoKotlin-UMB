@@ -42,7 +42,7 @@ Aplikasi Inventori Toko berbasis Kotlin (Android) yang dikembangkan untuk memenu
 ## 📱 Cara Instalasi
 1. Clone Repository
 
-* https://github.com/salwasyahratul/InventoriToko-KotlinUMB
+* https://github.com/Imampriyadi/InventoriToko-KotlinUMB
   cd inventoriToko-Kotlin-UMB
   
 2. Aplikasi Dibuka
